@@ -45,8 +45,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   </a><a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
+### 👦 Github Stats:
+
+<div align="left">
+
+![profile visit](https://komarev.com/ghpvc/?username=pydevazmi) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=pydevazmi&show_icons=true&theme=buefy&count_private=true" alt="my github stats" width="420"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pydevazmi" width="420" height="165">
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pydevazmi&show_icons=true&locale=en&layout=compact" alt="pydevazmi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pydevazmi&show_icons=true&locale=en" alt="pydevazmi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pydevazmi&" alt="pydevazmi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pydevazmi&" alt="pydevazmi" /></p>  
+</div>
