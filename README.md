@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pydevazmi" alt="pydevazmi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/eyadhamza8" target="blank"><img src="https://img.shields.io/twitter/follow/eyadhamza8?logo=twitter&style=for-the-badge" alt="eyadhamza8" /></a> </p>
+<p align="left"> <a href="https://twitter.com/MuhmdAzmii" target="blank"><img src="https://img.shields.io/twitter/follow/MuhmdAzmii?logo=twitter&style=for-the-badge" alt="eyadhamza8" /></a> </p>
 
 - 🔭 I’m currently working on **Pulse**
 
