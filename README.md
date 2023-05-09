@@ -57,7 +57,4 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pydevazmi&show_icons=true&locale=en&layout=compact" alt="pydevazmi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pydevazmi&show_icons=true&locale=en" alt="pydevazmi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pydevazmi&" alt="pydevazmi" /></p>  
 </div>
