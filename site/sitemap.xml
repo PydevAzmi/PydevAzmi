@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/issues</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/pulls</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/actions</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/projects?query=is%3Aopen</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/security</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/commit/c8a89c805043e8dab6916c4c4c68a093caf5e9b6</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/blob/main/README.md</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/releases</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/compare</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/commit/d7f54ef7d7d2011c886c5468a03a4157ba1ae2f8</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/blob/c8a89c805043e8dab6916c4c4c68a093caf5e9b6/README.md</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/find/main</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/blob/main/README.md?plain=1</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels?sort=name-asc</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels?sort=name-desc</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels?sort=count-desc</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels?sort=count-asc</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels/bug</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels/documentation</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels/duplicate</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels/enhancement</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels/good%20first%20issue</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels/help%20wanted</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels/invalid</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels/question</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/labels/wontfix</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?state=open</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?state=closed</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/commit/1e1dfbd0861ea2e940709fe407bb66139d8d9244</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/find/c8a89c805043e8dab6916c4c4c68a093caf5e9b6</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/blob/c8a89c805043e8dab6916c4c4c68a093caf5e9b6/README.md?plain=1</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/commit/5365c14828c730eab4a0e4a4237b1323e9e2dfb9</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/commit/e4a7c0f268c7973a42a2d58c435e6674fc9f2070</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/commit/6395dcf41bf62d8d46b18499c4b6cc2a446f9c19</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/commit/946747e0ca1968b2b95c12de3aacb44038db6dbe</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/commit/f8133443a047168396586d805e243d16c78d3eb7</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/commit/5b045242b4ac1eedb116ee9d55f59401b315d1c4</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/commit/b39e0cfc0941fa47ff2ff4a4e154eb39d92a67bc</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/commit/21962995f927ad1566ce6121d90961329e9e7b16</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/commit/8999e92d1c053ba9a11eeb289e23d6bce39b3181</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://github.com/PydevAzmi/PydevAzmi/commit/659c6bcb40776291ee3078debb2f68e7abf86ea2</loc>
+  <lastmod>2023-05-10T11:38:40+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+
+
+</urlset>
