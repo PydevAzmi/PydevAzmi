@@ -5,7 +5,6 @@
     <meta name="google-site-verification" content="8Qe_puDJUSFYPRth6P2LA60bfpwqw4D-rwyHOwXZu0E" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile</title>
 </head>
 <body>
 
