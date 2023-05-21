@@ -37,7 +37,8 @@
 <hr>
 
 ### 🏆 Github trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pydevazmi&theme=onedark&no-frame=true" alt="pydevazmi" /></a> </p>
+<div align="left">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pydevazmi&theme=onedark&no-frame=true" alt="pydevazmi" /></a> </p></div>
 
 <br/>
 <hr>
@@ -56,7 +57,7 @@
 
 ![profile visit](https://komarev.com/ghpvc/?username=pydevazmi) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=pydevazmi&show_icons=true&theme=dark&count_private=true" alt="my github stats" width="420"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pydevazmi&theme=dark&background=000000" width="420" height="165">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pydevazmi&show_icons=true&theme=dark&locale=en&layout=compact" alt="pydevazmi" />
