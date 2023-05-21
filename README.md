@@ -57,7 +57,7 @@
 ![profile visit](https://komarev.com/ghpvc/?username=pydevazmi) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=pydevazmi&show_icons=true&theme=buefy&count_private=true" alt="my github stats" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pydevazmi&show_icons=true&theme=dark&count_private=true" alt="my github stats" width="420"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pydevazmi" width="420" height="165">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pydevazmi&show_icons=true&locale=en&layout=compact" alt="pydevazmi" />
 </p>
