@@ -38,7 +38,7 @@
 
 ### 🏆 Github trophies
 <div align="left">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pydevazmi&theme=onedark&no-frame=true" alt="pydevazmi" /></a> </p></div>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pydevazmi&theme=onedark&no-frame=true&row=1" alt="pydevazmi" /></a> </p></div>
 
 <br/>
 <hr>
