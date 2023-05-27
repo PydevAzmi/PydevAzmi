@@ -30,7 +30,7 @@
 </p>
 
 <p align="left">
-    <a href="https://twitter.com/MuhmdAzmii" target="blank"><img src="https://img.shields.io/twitter/follow/MuhmdAzmii?logo=twitter&style=for-the-badge" alt="eyadhamza8" /></a> 
+    <a href="https://twitter.com/MuhmdAzmii" target="blank"><img src="https://img.shields.io/twitter/follow/MuhmdAzmii?logo=twitter&style=for-the-badge" alt="MuhmdAzmii" /></a> 
 </p>
 
 <br/>
