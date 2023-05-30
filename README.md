@@ -60,8 +60,8 @@
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=pydevazmi&show_icons=true&theme=dark&count_private=true" alt="my github stats" width="420"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pydevazmi&theme=dark&background=000000" width="420" height="175">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pydevazmi&show_icons=true&theme=dark&locale=en&layout=compact" alt="pydevazmi" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pydevazmi&theme=dark&background=000000" width="420" height="180">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pydevazmi&show_icons=true&theme=dark&locale=en&layout=compact" width="840" alt="pydevazmi" />
 </p>
 
 </div>
