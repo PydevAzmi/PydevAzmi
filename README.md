@@ -1,7 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2900&pause=2000&color=B347DE&center=true&vCenter=true&width=1000&lines=Hi+👋,+I+am+Mohamed+Azmii;+Web+Developer+(Python+Django);)](https://git.io/typing-svg) 
 
-
+<!--
 <h1 align="center">Hi 👋, I'm Mohamed Azmii</h1>
 <h3 align="center">Web Developer (Python & Django) </h3>
+-->
 
 <br/>
 
