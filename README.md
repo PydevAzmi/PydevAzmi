@@ -48,8 +48,7 @@
 <p align="left">
     <a href="https://twitter.com/MuhmdAzmii" target="blank"><img src="https://img.shields.io/twitter/follow/MuhmdAzmii?logo=twitter&style=for-the-badge" alt="MuhmdAzmii" /></a> 
 </p>
-<a href="[https://twitter.com/MuhmdAzmii](https://twitter.com/MuhmdAzmii/status/1366389837176180746)"><img src="https://gtce.itsvg.in/api?username=MuhmdAzmii&theme=dark&icon=hashtag&time=false&response=true&border=true"/></a>   
-
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=MuhmdAzmii&theme=github_dark&response=false&border=true&time=true&icon=hashtag"/></a>
 <br/>
 <hr>
 
