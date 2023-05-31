@@ -48,6 +48,7 @@
 <p align="left">
     <a href="https://twitter.com/MuhmdAzmii" target="blank"><img src="https://img.shields.io/twitter/follow/MuhmdAzmii?logo=twitter&style=for-the-badge" alt="MuhmdAzmii" /></a> 
 </p>
+<a href="[https://twitter.com/MuhmdAzmii](https://twitter.com/MuhmdAzmii/status/1366389837176180746)"><img src="https://gtce.itsvg.in/api?username=MuhmdAzmii&theme=dark&icon=hashtag&time=false&response=true&border=true"/></a>   
 
 <br/>
 <hr>
@@ -76,9 +77,9 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=pydevazmi&show_icons=true&theme=dark&count_private=true" alt="my github stats" width="420"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pydevazmi&theme=dark&background=000000" width="420" height = 185 />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pydevazmi&show_icons=true&theme=dark&locale=en&layout=compact" alt="pydevazmi" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pydevazmi&show_icons=true&theme=dark&locale=en&layout=compact" alt="pydevazmi" /> 
 </p>
 
 </div>
 
-<a href="https://twitter.com/MuhmdAzmii"><img src="https://gtce.itsvg.in/api?username=MuhmdAzmii&theme=dracula&icon=hashtag&time=false&response=true&border=true"/></a>
+
