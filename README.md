@@ -3,6 +3,18 @@
 <!--
 <h1 align="center">Hi 👋, I'm Mohamed Azmii</h1>
 <h3 align="center">Web Developer (Python & Django) </h3>
+
+<a href="https://github.com/PydevAzmi?tab=repositories"><img src="https://emoji.gg/assets/emoji/7549-hug.png" width="49px" height="49px" alt="hug"></a>
+
+<a href="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif"><img src="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif" width="64px" height="64px" alt="wave"></a
+
+<a href="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png"><img src="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png" width="53px" height="53px" alt="midoriya_ready"></a> 
+
+<a href="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif"><img src="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif" width="64px" height="64px" alt="wave"></a>
+
+<a href="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png"><img src="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png" width="53px" height="53px" alt="midoriya_ready"></a>
+
+
 -->
 
 <br/>
@@ -68,4 +80,5 @@
 </p>
 
 </div>
-<a href="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png"><img src="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png" width="53px" height="53px" alt="midoriya_ready"></a> 
+
+<a href="https://twitter.com/MuhmdAzmii"><img src="https://gtce.itsvg.in/api?username=MuhmdAzmii&theme=dracula&icon=hashtag&time=false&response=true&border=true"/></a>
