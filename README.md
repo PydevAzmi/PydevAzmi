@@ -22,6 +22,11 @@
 <a href="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png"><img src="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png" width="53px" height="53px" alt="midoriya_ready"></a> 
 
 <a href="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif"><img src="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif" width="64px" height="64px" alt="wave"></a>
+
+
+
+    <a href="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png">
+        <img src="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png" width="53px" height="53px" alt="midoriya_ready"></a>
 -->
 
 
