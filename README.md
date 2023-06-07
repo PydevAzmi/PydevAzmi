@@ -1,7 +1,6 @@
-<p align="left">
 <a href="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png"><img src="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png" width="53px" height="53px" alt="midoriya_ready"></a>
-</p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2900&pause=2000&color=1F6FEB&center=true&vCenter=true&width=1000&lines=Hi+👋,+I+am+Mohamed+Azmii;+Web+Developer+(Python+Django);)](https://git.io/typing-svg) 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2900&pause=2000&color=1F6FEB&right=true&vCenter=true&width=1000&lines=Hi+👋,+I+am+Mohamed+Azmii;+Web+Developer+(Python+Django);)](https://git.io/typing-svg) 
 
 <!--
 <h1 align="center">Hi 👋, I'm Mohamed Azmii</h1>
