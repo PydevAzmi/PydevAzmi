@@ -1,8 +1,16 @@
-<div align="left">
-<a href="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png"><img src="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png" width="53px" height="53px" alt="midoriya_ready"></a>
+<p align="center" >
 
+  <a href="https://github.com/pydevazmi">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I+am+Mohamed+Azmii;Web+Developer+(Python%2BDjango);2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=left&width=440&height=45&color=1F6FEB&vCenter=true&pause=1000&size=25" /></a>
+    
+</p>
+
+
+
+
+ <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2900&pause=2000&color=1F6FEB&left=true&vCenter=true&width=1000&lines=Hi+👋,+I+am+Mohamed+Azmii;+Web+Developer+(Python+Django);)](https://git.io/typing-svg) 
-</div>
+ -->
 <!--
 <h1 align="center">Hi 👋, I'm Mohamed Azmii</h1>
 <h3 align="center">Web Developer (Python & Django) </h3>
