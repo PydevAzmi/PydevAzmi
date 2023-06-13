@@ -31,8 +31,6 @@
 
 
 
-
-
 <br/>
 
 
@@ -64,7 +62,7 @@
 <p align="left">
     <a href="https://twitter.com/MuhmdAzmii" target="blank"><img src="https://img.shields.io/twitter/follow/MuhmdAzmii?logo=twitter&style=for-the-badge" alt="MuhmdAzmii" /></a> 
 </p>
-<a href="https://twitter.com/MuhmdAzmii"><img src="https://gtce.itsvg.in/api?username=MuhmdAzmii&theme=github_dark&response=false&border=true&time=true&icon=hashtag"/></a>
+<a href="https://twitter.com/MuhmdAzmii"><img src="https://gtce.itsvg.in/api?username=MuhmdAzmii&theme=github_dark&response=false&border=true&time=true&icon=hashtag" /></a>
 <br/>
 <hr>
 
