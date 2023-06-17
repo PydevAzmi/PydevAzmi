@@ -1,10 +1,13 @@
-<p align="center" >
-<a href="https://github.com/pydevazmi">
-        <img src="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png" width="53px" height="53px" alt="midoriya_ready"></a>
-<a href="https://github.com/pydevazmi">
-      <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I+am+Mohamed+Azmii;Web+Developer+(Python%2BDjango);2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=left&width=440&height=45&color=1F6FEB&vCenter=true&pause=1000&size=25" /></a>
-    
+<p align="center">
+  <a href="https://github.com/pydevazmi">
+    <img src="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png" width="53px" height="53px" alt="midoriya_ready">
+  </a>
+<a href="https://github.com/pydevazmi">&emsp;&emsp;</a>
+  <a href="https://github.com/pydevazmi">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I+am+Mohamed+Azmii;Web+Developer+(Python%2BDjango);2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=left&width=440&height=45&color=1F6FEB&vCenter=true&pause=1000&size=25">
+  </a>
 </p>
+
 
 
 
