@@ -14,6 +14,7 @@
 
  <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2900&pause=2000&color=1F6FEB&left=true&vCenter=true&width=1000&lines=Hi+👋,+I+am+Mohamed+Azmii;+Web+Developer+(Python+Django);)](https://git.io/typing-svg) 
+[![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
  -->
 <!--
 <h1 align="center">Hi 👋, I'm Mohamed Azmii</h1>
@@ -68,7 +69,9 @@
     <a href="https://www.buymeacoffee.com/pydevazmi" target="_blank"><img src="https://img.shields.io/twitter/follow/MuhmdAzmii?color=blue&label=Buy%20me%20a%20coffee&logo=buy%20me%20a%20coffee&logoColor=orange&style=for-the-badge" alt="Buy Me A Coffee" height="30" width="174"></a>
 </p>
 
+<!--
 <a href="https://twitter.com/MuhmdAzmii"><img src="https://gtce.itsvg.in/api?username=MuhmdAzmii&theme=github_dark&response=false&border=true&time=true&icon=hashtag" /></a>
+-->
 <br/>
 <hr>
 
@@ -92,7 +95,7 @@
 
 <div align="left">
 
-![profile visit](https://komarev.com/ghpvc/?username=pydevazmi) [![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
+![profile visit](https://komarev.com/ghpvc/?username=pydevazmi) 
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=pydevazmi&show_icons=true&theme=dark&count_private=true" alt="my github stats" width="420"/>
