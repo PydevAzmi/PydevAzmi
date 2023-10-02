@@ -41,7 +41,7 @@
 
 ### 🤓 Who am I? (Briefly):
 
-- 🔭 I’m currently working on **Pulse**
+- 🔭 I’m currently serving in the **military**
 
 - 🌱 I’m currently learning **Backend Development & Software Development**
 
