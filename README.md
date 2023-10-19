@@ -51,7 +51,7 @@
 
 - 📫 How to reach me **pydevazmi@gmail.com**
 
-- 📄 Know about [ my experiences](https://drive.google.com/file/d/1pXrETdu3JSmVdNSvp68DpCdZzgLPXiXc/view?usp=sharing)
+- 📄 Know about [ my experiences](https://drive.google.com/file/d/1dZtAynw8q9jL66G_4LZdjCC955p1vdwz/view?usp=sharing)
 
 <br/>
 
