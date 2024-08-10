@@ -51,7 +51,7 @@
 
 - 📫 How to reach me **pydevazmi@gmail.com**
 
-- 📄 Know about [ my experiences](https://drive.google.com/file/d/1dZtAynw8q9jL66G_4LZdjCC955p1vdwz/view?usp=sharing)
+- 📄 Take a look at [ My Portfolio](https://pydevazmi.github.io/#home)
 
 <br/>
 
