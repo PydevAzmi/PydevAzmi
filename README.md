@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pydevazmi">
-    <img src="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png" width="53px" height="53px" alt="midoriya_ready">
+    <img src="static/jinx_2.gif" alt="jinx" width="53px" height="53px" alt="midoriya_ready">
   </a>
 <a>&emsp;&emsp;</a>
   <a href="https://github.com/pydevazmi">
@@ -8,40 +8,12 @@
   </a>
 </p>
 
-
-
-
-
- <!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2900&pause=2000&color=1F6FEB&left=true&vCenter=true&width=1000&lines=Hi+👋,+I+am+Mohamed+Azmii;+Web+Developer+(Python+Django);)](https://git.io/typing-svg) 
-[![Most Active GitHub User Rank](https://endy419y2alipob.m.pipedream.net)](https://commits.top/egypt.html)
- -->
-<!--
-<h1 align="center">Hi 👋, I'm Mohamed Azmii</h1>
-<h3 align="center">Web Developer (Python & Django) </h3>
-
-<a href="https://github.com/PydevAzmi?tab=repositories"><img src="https://emoji.gg/assets/emoji/7549-hug.png" width="49px" height="49px" alt="hug"></a>
-
-<a href="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif"><img src="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif" width="64px" height="64px" alt="wave"></a
-
-<a href="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png"><img src="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png" width="53px" height="53px" alt="midoriya_ready"></a> 
-
-<a href="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif"><img src="https://emoji.discord.st/emojis/3d96defc-3ca3-4964-9393-9b72a3a0e549.gif" width="64px" height="64px" alt="wave"></a>
-
-
-
-    <a href="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png">
-        <img src="https://emoji.discord.st/emojis/4cfdebaf-2139-4371-82fc-a19123ad6195.png" width="53px" height="53px" alt="midoriya_ready"></a>
--->
-
-
-
 <br/>
 
 
 ### 🤓 Who am I? (Briefly):
 
-- 🔭 I’m currently serving in the **military**
+- 🔭 I’m currently **open for work!**
 
 - 🌱 I’m currently learning **Backend Development & Software Development**
 
@@ -61,17 +33,19 @@
 ### 👨‍💻Connect with me
 
 <p align="left">
-    <a href="https://twitter.com/MuhmdAzmii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MuhmdAzmii" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/muhmd-azmi-6a657320a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhmd-azmi-6a657320a" height="30" width="40" /></a>
+    <a href="https://x.com/MuhmdAzmii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MuhmdAzmii" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/muhmdazmii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Azmi" height="30" width="40" /></a>
     <a href="https://fb.com/MuhmdAzmii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/MuhmdAzmii" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/pydevazmi?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pydevazmi" height="50" width="60" /></a>
+    <a href="https://leetcode.com/u/pydevazmi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="@pydevazmi" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/pydevazmi?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pydevazmi" height="30" width="40" /></a>
+    <a href="https://discord.com/users/869242322804678727" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="@pydevazmi" height="30" width="40" /></a>
 </p>
 <p align="left">
     <a href="https://twitter.com/MuhmdAzmii" target="_blank"><img src="https://img.shields.io/twitter/follow/MuhmdAzmii?color=blue&label=Follow%20Me&logo=twitter&logoColor=blue&style=for-the-badge" height="30" width="174" alt="MuhmdAzmii" /></a>
     <a href="https://www.buymeacoffee.com/pydevazmi" target="_blank"><img src="https://img.shields.io/twitter/follow/MuhmdAzmii?color=blue&label=Buy%20me%20a%20coffee&logo=buy%20me%20a%20coffee&logoColor=orange&style=for-the-badge" alt="Buy Me A Coffee" height="30" width="174">
-
 </a>
 </p>
+
 
 <!--
 <a href="https://twitter.com/MuhmdAzmii"><img src="https://gtce.itsvg.in/api?username=MuhmdAzmii&theme=github_dark&response=false&border=true&time=true&icon=hashtag" /></a>
