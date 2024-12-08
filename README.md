@@ -13,7 +13,7 @@
 
 ### 🤓 Who am I? (Briefly):
 
-- 🔭 I’m currently **open for work!**
+- 🔭 Fullstack developer at Intlaq!
 
 - 🌱 I’m currently learning **Backend Development & Software Development**
 
