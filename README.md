@@ -32,20 +32,25 @@
     
 ### 👨‍💻Connect with me
 
-<p align="left">
-    <a href="https://x.com/MuhmdAzmii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MuhmdAzmii" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/muhmdazmii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Azmi" height="30" width="40" /></a>
-    <a href="https://fb.com/MuhmdAzmii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/MuhmdAzmii" height="30" width="40" /></a>
-    <a href="https://leetcode.com/u/pydevazmi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" alt="@pydevazmi" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/pydevazmi?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pydevazmi" height="30" width="40" /></a>
-    <a href="https://discord.com/users/869242322804678727" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="@pydevazmi" height="30" width="40" /></a>
-</p>
-<p align="left">
-    <a href="https://twitter.com/MuhmdAzmii" target="_blank"><img src="https://img.shields.io/twitter/follow/MuhmdAzmii?color=blue&label=Follow%20Me&logo=twitter&logoColor=blue&style=for-the-badge" height="30" width="174" alt="MuhmdAzmii" /></a>
-    <a href="https://www.buymeacoffee.com/pydevazmi" target="_blank"><img src="https://img.shields.io/twitter/follow/MuhmdAzmii?color=blue&label=Buy%20me%20a%20coffee&logo=buy%20me%20a%20coffee&logoColor=orange&style=for-the-badge" alt="Buy Me A Coffee" height="30" width="174">
+<div align="center">
+    &nbsp;&nbsp;
+    <a href="https://linkedin.com/in/muhmdazmii" target="blank"><img width='32px' src="images/linkedin-brands.svg"/></a>
+    &nbsp;&nbsp; 
+    <a href="https://leetcode.com/u/pydevazmi/" target="blank"><img width='32px' src='images/leetcode-brands.svg'/></a>
+    &nbsp;&nbsp;
+    <a href="https://www.hackerrank.com/pydevazmi?hr_r=1" target="blank"><img width='32px' src='images/hackerrank-brands.svg'/></a>
+    &nbsp;&nbsp; 
+    <a href="https://discord.com/users/869242322804678727" target="blank"><img width='32px' src='images/discord-brands.svg'/></a>
+    &nbsp;&nbsp;
+    <a href="https://fb.com/MuhmdAzmii" target="blank"><img width='32px' src='images/facebook-brands-solid.svg'/></a>
+    &nbsp;&nbsp;
+    <a href="https://x.com/MuhmdAzmii" target="blank"> <img width='32px' src="images/x-twitter-brands.svg"></a>
+</div>
+<p align='center'>
+    Interested in my work?
+    <a href="https://www.buymeacoffee.com/pydevazmi" target="_blank" style= 'font-weight: bold; font-size:14px'>Buy Me A Coffe.
 </a>
 </p>
-
 
 <!--
 <a href="https://twitter.com/MuhmdAzmii"><img src="https://gtce.itsvg.in/api?username=MuhmdAzmii&theme=github_dark&response=false&border=true&time=true&icon=hashtag" /></a>
