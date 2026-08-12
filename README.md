@@ -6,7 +6,7 @@
   <a href="https://github.com/pydevazmi">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I+am+Mohamed+Azmii;Web+Developer+(Python%2BDjango);2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=left&width=440&height=45&color=1F6FEB&vCenter=true&pause=1000&size=25">
   </a> -->
-    <a href="https://github.com/YasserFat7alah">
+    <a href="https://github.com/pydevazmi">
       <h1 align="center" > Hi 👋, I'm Mohamed Azmi</h1>
     </a>
 </p>
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **pydevazmi@gmail.com**
 
-- 📄 Take a look at [ My Portfolio](https://pydevazmi.github.io/#home)
+- 📄 Take a look at [ My Portfolio](http://57.129.120.40/)
 
 <br/>
 
