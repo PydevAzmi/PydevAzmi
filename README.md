@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **pydevazmi@gmail.com**
 
-- 📄 Take a look at [ My Portfolio](http://57.129.120.40/)
+- 📄 Take a look at [ My Portfolio](https://mohamedazmi.dev/)
 
 <br/>
 
